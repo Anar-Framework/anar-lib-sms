@@ -8,8 +8,8 @@
 		<version>2.2.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>af.gov.anar.sms</groupId>
-	<artifactId>anar-sms</artifactId>
+	<groupId>af.gov.anar.lib.sms</groupId>
+	<artifactId>anar-lib-sms</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>anar-sms</name>
 	<description>SMS Messaging Module of Anar Framework</description>

@@ -6,6 +6,12 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class ConfigLoader {
 
+
+    private static String SMS_DB_SCHEMA;
+
+
     @Value("${sms.database.schema}: sms")
-    private static String DB_SCHEMA;
+    public void setDatabaseSmsSchema (String schema) {
+        SMS_DB_SCHEMA = schema;
+    }
 }
