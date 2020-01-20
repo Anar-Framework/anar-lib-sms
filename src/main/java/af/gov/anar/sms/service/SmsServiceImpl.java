@@ -2,7 +2,7 @@ package af.gov.anar.sms.service;
 
 import af.gov.anar.sms.data.model.SmsLog;
 import af.gov.anar.sms.data.repository.SmsRepository;
-import af.gov.anar.sms.exception.kannel.ServiceException;
+import af.gov.anar.sms.exception.ServiceException;
 import af.gov.anar.sms.util.Utility;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,7 +1,7 @@
 package af.gov.anar.sms.resource;
 
 import af.gov.anar.sms.data.model.SmsLog;
-import af.gov.anar.sms.exception.kannel.ServiceException;
+import af.gov.anar.sms.exception.ServiceException;
 import af.gov.anar.sms.service.ISmsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

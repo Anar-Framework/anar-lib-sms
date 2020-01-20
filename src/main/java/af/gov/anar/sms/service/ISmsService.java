@@ -2,7 +2,7 @@ package af.gov.anar.sms.service;
 
 
 import af.gov.anar.sms.data.model.SmsLog;
-import af.gov.anar.sms.exception.kannel.ServiceException;
+import af.gov.anar.sms.exception.ServiceException;
 
 public interface ISmsService {
 

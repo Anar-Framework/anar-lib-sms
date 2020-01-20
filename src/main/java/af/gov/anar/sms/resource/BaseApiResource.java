@@ -1,6 +1,6 @@
 package af.gov.anar.sms.resource;
 
-import af.gov.anar.sms.exception.kannel.ServiceException;
+import af.gov.anar.sms.exception.ServiceException;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.extern.log4j.Log4j2;

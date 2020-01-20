@@ -1,7 +1,7 @@
-package af.gov.anar.sms.exception.kannel;
+package af.gov.anar.sms.exception;
 
 
-import af.gov.anar.sms.exception.common.BaseCheckedException;
+import af.gov.anar.lang.infrastructure.exception.common.BaseCheckedException;
 
 public class ServiceException extends BaseCheckedException {
 
